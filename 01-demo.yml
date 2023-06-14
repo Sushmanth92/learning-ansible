@@ -1,4 +1,4 @@
--name Just a Demo Play
+-name: Just a Demo Play
  hosts: all
  tasks:
    -name: print hello
